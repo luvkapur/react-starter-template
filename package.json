@@ -1,0 +1,6 @@
+{
+    "name": "react-with-webpack-babel",
+    "devDependencies": {
+        "webpack": "^3.9.1"
+    }
+}
